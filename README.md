@@ -1,4 +1,6 @@
 # Computer-local-image-retrieval-and-storage
+The code is in the master branch    代码在master branch中
+
 You can find all images under a specified folder (including subfolders), then display them one by one in the user interface, and finally save them to another specified folder
 使用c#，可以用遍历选择的文件夹下的所有图片，包括这个文件夹的子文件夹中的图片，然后逐一展示用户界面展示，最终都保存到另一个指定的文件夹中。
 The following picture is a demonstration of the effect:
