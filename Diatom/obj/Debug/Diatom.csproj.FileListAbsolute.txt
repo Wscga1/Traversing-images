@@ -1,0 +1,75 @@
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\bin\Debug\Diatom.exe.config
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\bin\Debug\Diatom.exe
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\bin\Debug\Diatom.pdb
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.csprojAssemblyReference.cache
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\View\MainView.g.cs
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\App.g.cs
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.cache
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.lref
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\View\MainView.baml
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.g.resources
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.Properties.Resources.resources
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.csproj.GenerateResource.cache
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.csproj.CoreCompileInputs.cache
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.exe
+C:\Users\guoao.chen\source\repos\Diatom\Diatom\obj\Debug\Diatom.pdb
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\bin\Debug\Diatom.exe.config
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\bin\Debug\Diatom.exe
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\bin\Debug\Diatom.pdb
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\View\MainView.g.cs
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.cache
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.lref
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\View\MainView.baml
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.g.resources
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.Properties.Resources.resources
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.exe
+C:\Users\Administrator\Documents\WeChat Files\wxid_sl0v1c4arabj22\FileStorage\File\2021-01\Diatom\Diatom\obj\Debug\Diatom.pdb
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe.config
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\bin\Debug\Diatom.pdb
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.csprojAssemblyReference.cache
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\View\MainView.g.cs
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\App.g.cs
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.cache
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.lref
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\View\MainView.baml
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.g.resources
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.Properties.Resources.resources
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.GenerateResource.cache
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.CoreCompileInputs.cache
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.exe
+C:\Users\guoao.chen\Desktop\Diatom\Diatom\obj\Debug\Diatom.pdb
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\View\MainView.g.cs
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.exe
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.pdb
+C:\Users\Administrator\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe.config
+C:\Users\Administrator\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe
+C:\Users\Administrator\Desktop\Diatom\Diatom\bin\Debug\Diatom.pdb
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\View\MainView.baml
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.g.resources
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Diatom\Diatom\obj\Debug\Diatom.csprojAssemblyReference.cache
+D:\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe.config
+D:\Desktop\Diatom\Diatom\bin\Debug\Diatom.exe
+D:\Desktop\Diatom\Diatom\bin\Debug\Diatom.pdb
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.csprojAssemblyReference.cache
+D:\Desktop\Diatom\Diatom\obj\Debug\View\MainView.g.cs
+D:\Desktop\Diatom\Diatom\obj\Debug\App.g.cs
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.cache
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom_MarkupCompile.lref
+D:\Desktop\Diatom\Diatom\obj\Debug\View\MainView.baml
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.g.resources
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.Properties.Resources.resources
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.GenerateResource.cache
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.csproj.CoreCompileInputs.cache
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.exe
+D:\Desktop\Diatom\Diatom\obj\Debug\Diatom.pdb
