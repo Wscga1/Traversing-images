@@ -10,4 +10,4 @@ Then click the Start button and the images start to be displayed one by one on t
 At the end you will be prompted that you have traversed all the images under the selected folder, and include the subfolders of this folder.
 ![image](https://github.com/Wscga1/Computer-local-image-retrieval-and-storage-using-WPF/blob/main/4.png)
 If this project is useful to you, you can click on star.如果产生了帮助，可以捐赠创作者一杯☕️
-![image](https://github.com/Wscga1/Computer-local-image-retrieval-and-storage-using-WPF/blob/main/5.png)
+![image](https://github.com/Wscga1/Computer-local-image-retrieval-and-storage-using-WPF/blob/main/5.jpg)
